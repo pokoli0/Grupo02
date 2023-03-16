@@ -1,0 +1,73 @@
+[33mcommit 4f776d9084b3a296ad57a9949a1771c5ed7842af[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: Importante[m[33m)[m
+Merge: 1f07277 3be28c6
+Author: JialeHe28 <114423476+JialeHe28@users.noreply.github.com>
+Date:   Thu Mar 16 16:13:22 2023 +0100
+
+    f
+
+[33mcommit 3be28c626f2493b771d4926e3db147fb66155d2c[m
+Merge: 904e358 94bfc03
+Author: pokoli0 <psierr01@ucm.es>
+Date:   Thu Mar 16 16:02:06 2023 +0100
+
+    cambios antes de mergeo
+
+[33mcommit 904e358f7b81eb710956f1aefbbc8923d40921c8[m
+Author: pokoli0 <psierr01@ucm.es>
+Date:   Thu Mar 16 15:45:00 2023 +0100
+
+    modificacion de readme
+
+[33mcommit 94bfc034d63dac987e76e8ffb600036b8d10d03c[m
+Author: pokoli0 <psierr01@ucm.es>
+Date:   Thu Mar 16 15:39:04 2023 +0100
+
+    añado txt a nueva rama addcolor
+
+[33mcommit 1f072776f7815c5889a00326b0961f41b825df32[m
+Author: JialeHe28 <114423476+JialeHe28@users.noreply.github.com>
+Date:   Thu Mar 16 15:24:36 2023 +0100
+
+     hehe
+
+[33mcommit 474db59cc2d26ed77c9b182ae4d92c6191baa736[m
+Author: JialeHe28 <114423476+JialeHe28@users.noreply.github.com>
+Date:   Mon Mar 13 12:23:22 2023 +0100
+
+    conflictos
+
+[33mcommit 01448598c9e1d82e1528cb8ec82eabfcac025160[m
+Author: pokoli0 <psierr01@ucm.es>
+Date:   Mon Mar 13 12:22:52 2023 +0100
+
+    cambios en conflicto.txt
+
+[33mcommit 94f79793d7a647ebfd99aee6723fa6edcda054bb[m
+Author: JialeHe28 <114423476+JialeHe28@users.noreply.github.com>
+Date:   Mon Mar 13 12:18:52 2023 +0100
+
+    conflictos
+
+[33mcommit a52c1a950c5ad2eece4a92b0ca805832688306ff[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: pokoli0 <psierr01@ucm.es>
+Date:   Mon Mar 13 11:54:15 2023 +0100
+
+    edito readme
+
+[33mcommit 1aac5061baa7f1695daafddb5f5d95b4d00e4ece[m
+Author: pokoli0 <psierr01@ucm.es>
+Date:   Mon Mar 13 11:42:34 2023 +0100
+
+    añado readme
+
+[33mcommit 253c354b2b4d2e311aaa6aeca4980be5e42056ec[m
+Author: pokoli0 <psierr01@ucm.es>
+Date:   Mon Mar 13 11:33:42 2023 +0100
+
+    gitignore
+
+[33mcommit 9cfd0895e8b9b835f6c9c82bcd6d4824b81c3110[m
+Author: pokoli0 <psierr01@ucm.es>
+Date:   Mon Mar 13 11:30:47 2023 +0100
+
+    añado primeros archivos
